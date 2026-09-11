@@ -9,8 +9,7 @@ from google import genai
 LOG_FILE = "cronologia.md"
 PROCESSED_FILE = "urls.txt"
 QUERIES = ['"Mexican wolf" "Executive Order"', '"lobo mexicano" "orden ejecutiva"']
-PAUSA_ENTRE_LLAMADAS = 2  # segundos, para no saturar la API de Gemini
-
+PAUSA_ENTRE_LLAMADAS = 5  # segundos, para no saturar la API de Gemini
 
 def cargar_procesadas():
     if os.path.exists(PROCESSED_FILE):
@@ -88,10 +87,11 @@ Responde SOLO en formato JSON válido con estas claves:
             model="gemini-3.5-flash-lite",
             contents=prompt
         )
-        return extraer_json(res.text)
+        return extraer_json(res.text), False  # (datos, fue_error_de_cuota)
     except Exception as e:
+        es_cuota = "RESOURCE_EXHAUSTED" in str(e) or "429" in str(e)
         print(f"Error analizando {noticia['link']}: {e}")
-        return None
+        return None, es_cuota
 
 
 def main():
@@ -110,11 +110,17 @@ def main():
 
     nuevas = 0
     for n in noticias:
+    nuevas = 0
+    for n in noticias:
         if n["link"] in procesadas:
             continue
 
         print(f"Analizando: {n['titulo'][:50]}...")
-        datos = analizar(client, n)
+        datos, es_cuota = analizar(client, n)
+
+        if es_cuota:
+            print(f"Cuota agotada, se reintentará mañana: {n['link']}")
+            continue  # NO se marca como procesada, se reintenta en la próxima corrida
 
         if datos and datos.get("es_relevante"):
             md = (
@@ -134,7 +140,6 @@ def main():
         time.sleep(PAUSA_ENTRE_LLAMADAS)
 
     print(f"Proceso finalizado. Nuevas entradas registradas: {nuevas}")
-
 
 if __name__ == "__main__":
     main()
