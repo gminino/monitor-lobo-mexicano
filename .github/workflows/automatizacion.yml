@@ -1,0 +1,25 @@
+name: Agente Lobo Mexicano
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Se ejecuta automáticamente todos los días a las 12:00 UTC
+  workflow_dispatch:       # Permite ejecutarlo manualmente desde la web
+
+jobs:
+  ejecutar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      - run: pip install feedparser google-genai
+      - run: python agente.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      - run: |
+          git config --global user.name 'Agente Bot'
+          git config --global user.email 'bot@github.com'
+          git add cronologia.md urls.txt
+          git commit -m "Actualización de cronología" || exit 0
+          git push
