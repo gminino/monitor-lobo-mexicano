@@ -43,22 +43,29 @@ def analizar(client, noticia):
 
 def main():
     api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key: return
+    if not api_key:
+        print("Error: No se encontró la clave GEMINI_API_KEY")
+        return
     client = genai.Client(api_key=api_key)
     procesadas = cargar_procesadas()
     inicializar_log()
+    
+    print("Iniciando rastreo de noticias...")
     noticias = obtener_noticias()
+    print(f"Se encontraron {len(noticias)} noticias en Google News.")
 
+    nuevas = 0
     for n in noticias:
-        if n["link"] in procesadas: continue
+        if n["link"] in procesadas:
+            continue
+        print(f"Analizando: {n['titulo'][:50]}...")
         datos = analizar(client, n)
         if datos and datos.get("es_relevante"):
-            md = f"## [{datos.get('fecha_evento')}] - {datos.get('actor')}\n* **Postura:** `{datos.get('postura')}`\n* **Detalle:** {datos.get('detalle')}\n* **Cita:** *\"{datos.get('cita')}\"*\n* **Fuente:** [Noticia]({n['link']})\n\n---\n\n"
+            md = f"## [{datos.get('fecha_evento', 'Fecha no especificada')}] - {datos.get('actor', 'Entidad')}\n* **Postura:** `{datos.get('postura', 'N/A')}`\n* **Detalle:** {datos.get('detalle', '')}\n* **Cita:** *\"{datos.get('cita', 'N/A')}\"*\n* **Fuente:** [Noticia]({n['link']})\n\n---\n\n"
             with open(LOG_FILE, "a", encoding="utf-8") as f:
                 f.write(md)
+            nuevas += 1
         guardar_procesada(n["link"])
         procesadas.add(n["link"])
 
-if __name__ == "__main__":
-    main()
-  
+    print(f"Proceso finalizado. Nuevas entradas registradas: {nuevas}")
