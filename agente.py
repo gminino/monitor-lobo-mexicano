@@ -85,7 +85,7 @@ Responde SOLO en formato JSON válido con estas claves:
 }}"""
     try:
         res = client.models.generate_content(
-            model="gemini-1.5-flash",
+            model="gemini-3.5-flash-lite",
             contents=prompt
         )
         return extraer_json(res.text)
