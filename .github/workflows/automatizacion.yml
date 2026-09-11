@@ -17,7 +17,7 @@ jobs:
         with:
           python-version: '3.11'
 
-      - run: pip install feedparser google-genai
+      - run: pip install -r requirements.txt
 
       - run: python agente.py
         env:
