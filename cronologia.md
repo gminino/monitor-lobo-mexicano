@@ -106,3 +106,39 @@
 
 ---
 
+## [2026-09-11] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** Donald Trump ha prometido retirar al lobo gris mexicano de la lista de especies en peligro de extinción. Sin embargo, los expertos advierten que el proceso legal y científico para lograrlo no será tan sencillo ni inmediato.
+* **Cita:** *"Trump vows to delist Mexican gray wolf. Experts say, 'Not so fast'"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVkZaVDhxQVkybEZQVHRyMlVYcXlUcFYyVHRtRW5HMnpMUzBWSHhzMERqM3czdW1PNURYWEhwQ1dnVGJ6elIzVEdWQmVIMkJJQ1JGaUp5SXJRRlRnQ0l1emVNYWtxVXRUcl9IN3V2YVNKOEM4TDNGNGgteGQzc3N2MFdGT25USGc1ZzQ4MHBNajJYbkwwZ1cxbFpSdXJOMTdJT3Y3ZWIzbkZhVFFzLU96MzhxcWFPMEJjdHpxUmdwcnA3UQ?oc=5)
+
+---
+
+## [2026-09-04] - Hunter Nation
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** Hunter Nation celebra una orden ejecutiva de Trump que inicia el proceso para retirar al lobo gris de la Ley de Especies en Peligro de Extinción. La medida busca eliminar las protecciones federales para estos cánidos en Estados Unidos.
+* **Cita:** *"HUNTER NATION CELEBRATES HISTORIC TRUMP EXECUTIVE ORDER PUTTING IN MOTION THE DELISTING OF THE GRAY WOLF FROM THE ENDANGERED SPECIES ACT"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMinAJBVV95cUxObi1tMGROUDNGLXdvNGVkdlJMWDhyZFpKRUtNUmNRVnE3aDZ3MzVlX1YzOEdHQUVPTUdsSjdPOUJ0VXZiWFpocUZ5LXlsaGpoYUF1OGM4U05MdlY5elZPSFRYSGFBcUJyb3NpdUxpbDVCdUR3RG9XM25VYkVKY3dEY1A3X1ZQTWUzNDBSSWM5VXU5VGN5eF9pb0pkS0pkSlhZb3pPSTdfbDlfWkZnQTlQOXAxV2lsRDc1LWV3RU9MbkFnYVNBUjNNYVBrVWl6Qmc1UFpSdXBiZHBlWkVPSlZRbmJmeDdZVUt3cjdTTHRiUmZGQUx0MEVLdG5NeHpnYUY1ZmV5a0c0R0EyNzJLMXJBM3p3SEtPWmplVTJnMA?oc=5)
+
+---
+
+## [2026-09-05] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La administración impulsa medidas para permitir que los rancheros disparen contra los lobos. Esta política representa una amenaza directa para los esfuerzos de conservación de la especie.
+* **Cita:** *"You Can Shoot 'Em"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMimgFBVV95cUxPV2JtR1hINjZiMHQ1RTNaeWZ2OFFCVEVQRXRDN0w1RDZObm0weUxBVUxlZTRxekRhTDluZ1JsWXRvVzVSWmJhRlZpekRmeXpkVjQ5aWE1a25Od0U4bG1BSUNmSko1TTdwMVNTbUItblBobm1hOFRxMXJqcTg3d2txU2RXUGZpQzFXZExqeENDaXlGWFdtYkhTTW5n0gGfAUFVX3lxTFB1UVZ3clJrX1FjZU1kVjdPU21PenRJWVFJNnBqS0dtMVI4ek4tVU9qTDhpQUlldHpWTFlNZHUybWlEMnBrak1XYkdyYUpfbklUeE1NZUdXLWc0QkNuamtmYlo2VDhBNS1jeTFfTURfbGtDcFg4SkdDcFUwRS1CTXNnMmpna0s1em1kNkd3cVo1bTBYSjQtOTYxU0MzbDVNWQ?oc=5)
+
+---
+
+## [2026-09-11] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** Donald Trump ha ordenado al Departamento del Interior revocar las protecciones federales para el lobo gris mexicano. Esta decisión busca eliminar el estatus de conservación que ha protegido a la especie de la caza y la pérdida de hábitat.
+* **Cita:** *"Trump directs Interior Department to revoke protections for Mexican gray wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiiwJBVV95cUxQM1lXb1I1djhabkNlNWNEZkhCUlIxSHk3V3lYRWxqTUdGTjlORllneEFkdzVkX1hPX3BZS2JFUVdlV0FCY1BqZHNfRFlVcWJNbE03NW90bzB6bDBtOFY3MFpDdWJsSUEtWUZsTDhlUmdUa2hFRzYxZ2xBNy1KUEtCUnZOWUh3Y1BhajlmektQcEhCbjVnZEtQOXNWaXV4WjhHME1MRExWQWxBQl8tc0RTMVh5c1VVUFVGQ0pnV0djT1NmNzEtR1gyVTJfel9QdHQ4eVZVNEpjYkJLZXhLalM5OGdqblI5eEJBb1hrZExYLThueVJ6U0hiTWRKVno5SDM2LWZzcTR2Nnd5eEU?oc=5)
+
+---
+
