@@ -95,6 +95,7 @@ Responde SOLO en formato JSON válido con estas claves:
 
 
 def main():
+def main():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("Error: No se encontró la clave GEMINI_API_KEY")
@@ -110,8 +111,6 @@ def main():
 
     nuevas = 0
     for n in noticias:
-    nuevas = 0
-    for n in noticias:
         if n["link"] in procesadas:
             continue
 
@@ -120,12 +119,13 @@ def main():
 
         if es_cuota:
             print(f"Cuota agotada, se reintentará mañana: {n['link']}")
-            continue  # NO se marca como procesada, se reintenta en la próxima corrida
+            continue
 
         if datos and datos.get("es_relevante"):
             md = (
                 f"## [{datos.get('fecha_evento', 'Fecha no especificada')}] - "
                 f"{datos.get('actor', 'Entidad')}\n"
+                f"* **Tipo de actor:** `{datos.get('tipo_actor', 'N/A')}`\n"
                 f"* **Postura:** `{datos.get('postura', 'N/A')}`\n"
                 f"* **Detalle:** {datos.get('detalle', '')}\n"
                 f"* **Cita:** *\"{datos.get('cita', 'N/A')}\"*\n"
@@ -140,6 +140,7 @@ def main():
         time.sleep(PAUSA_ENTRE_LLAMADAS)
 
     print(f"Proceso finalizado. Nuevas entradas registradas: {nuevas}")
+
 
 if __name__ == "__main__":
     main()
