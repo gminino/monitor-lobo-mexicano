@@ -93,8 +93,6 @@ Responde SOLO en formato JSON válido con estas claves:
         print(f"Error analizando {noticia['link']}: {e}")
         return None, es_cuota
 
-
-def main():
 def main():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
