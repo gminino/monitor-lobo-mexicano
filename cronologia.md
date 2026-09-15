@@ -142,3 +142,30 @@
 
 ---
 
+## [2026-09-04] - Hunter Nation
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La organización Hunter Nation celebra una orden ejecutiva impulsada por Trump para iniciar el proceso de exclusión del lobo gris de la Ley de Especies en Peligro de Extinción. Esta medida busca eliminar las protecciones federales para la especie en Estados Unidos.
+* **Cita:** *"HUNTER NATION CELEBRATES HISTORIC TRUMP EXECUTIVE ORDER PUTTING IN MOTION THE DELISTING OF THE GRAY WOLF FROM THE ENDANGERED SPECIES ACT"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMipwFBVV95cUxPMDdmekdJcWhGNm5faDk4RWh2RmZFcmRMV0tNcE9yUTJFTm9Lc3p2OXZ0TUI2S2NINjNPLUlTNTZhUmdwMXd2N0JDUXBKQUZsbjA0S2VoSW5xM0ZhWk9ReHRSN0xXQ1E1clVmTWoxSURsVVRtTkFDb1JEeWRNSHJxQlVQcGtHMnR3YnduT3lET19iTjhlQncySmVoaVkyX0FUX3FkNG1VNA?oc=5)
+
+---
+
+## [2026-09-15] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** El presidente Trump dio a las agencias federales un plazo de 90 días para evaluar la eliminación de las protecciones bajo la ley de especies en peligro de extinción para los lobos. Esta medida podría desregular la conservación de estos cánidos en Estados Unidos.
+* **Cita:** *"Trump gives feds 90 days to consider removing endangered species protections for wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMihAJBVV95cUxQTk84UnZjLUFtTFliVkxTdXpINF9KcDUwUXUxcExGUi1rOHZxM1lacWJvX3U3X2J0RDRjZmducTlnejF3M0RhLVFTaTlqZENGWmFwa1ViaGVHOTdIUWFXZHBfcm5JLUVHVjVVQ2hIUUlXOTZqNDJyRWJBdm83LWpGQU9EaUhxeEJvMVZBaHhwOWZXNmRLQ0tmbDh2Q3J1VU1RQk9GR2ppa0lLNlU2WHlLQWpkaHpkTUFlZTE2NlZnV2RXOUV4QlJGNk4tZWkwMlhlaEVtZ0tJcFZ4MFY3dWcwZXRibFBaSHltUjl6WlBlUmtId2pMM3hpUk16Wl8xakV2SWUtNQ?oc=5)
+
+---
+
+## [2026-04-13] - Gobierno Federal de EE. UU.
+* **Tipo de actor:** `N/A`
+* **Postura:** `Neutral`
+* **Detalle:** Un nuevo plan federal de pastoreo genera un debate sobre su impacto en las actividades de los ganaderos locales. Asimismo, la medida plantea interrogantes sobre las actuales protecciones destinadas a la conservación del lobo mexicano.
+* **Cita:** *"New federal grazing plan would impact ranchers and Mexican wolf protections"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiugFBVV95cUxNamRCOWhzWHZGSW5ERi1SMW93ZG12YkdCeHhEU3lfQkdXX3BuWXpVWnFCMi1MS3JqQ0V1cFNjVTJyQnFBRFFzSFZEdGM2aWdsWU5RRS1NV1Jla2YzZWNlMGc2TG5lQWJiM0lUcWhNWUNUOFRMV3hlWkJEaG43LUN3RHE2WHllcmVlTVYtTmExcnBVZGxLc0lTeE5vWmRfamJId2NTV0I5RzlpcG8tY3ctU0lIVzZTeWdZb0E?oc=5)
+
+---
+
