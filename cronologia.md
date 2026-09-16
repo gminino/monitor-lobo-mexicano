@@ -169,3 +169,21 @@
 
 ---
 
+## [2026-09-15] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** El presidente Trump ordenó a las agencias federales un plazo de 90 días para evaluar la eliminación de las protecciones federales para los lobos bajo la Ley de Especies en Peligro de Extinción. Esta medida podría debilitar significativamente la conservación de subespecies como el lobo mexicano.
+* **Cita:** *"Trump gives feds 90 days to consider removing endangered species protections for wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMihgJBVV95cUxNc0FsLWJlclhLNVVHWGRwczFWR2o0SHR3aW1kbGxjUmpUZlg2dE5rYXRIV1daMmpkUE53RmFpZ2NTNkdISDRqRWJGdVZfZzZIdmlKZFpkM0pRYlFieGxOZXR3RnFXaEZaQ2Fpc2d1U3BsT0pwNHdIenk0ZWdkSThueXFIS3hZTW1lcUVFRnlBMk1UdkdYa3dhYXlfXzNnUGlrNjBxTktibmJHVWNnN2VkckJJeXhJWThrVnFXTFJocmZqcFV1U1dVYlNJOGJrVXpEUC0tYXZGNHEtNHNFQnlsS0JYSVF0dTFpWTZSNmwyNlBzYXNNQzIwX1NrY3E5SEgwa0I2OGF3?oc=5)
+
+---
+
+## [2026-09-05] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La administración de Donald Trump impulsa medidas para permitir que los rancheros disparen contra los lobos. Esta política busca relajar las protecciones federales para estos animales en conflicto con el ganado.
+* **Cita:** *"You Can Shoot 'Em"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiekFVX3lxTFBSc2dfMjU3RDVtRzhMS09VWENPb293NnEyMzJLTElfQzFGZDR4VVdKTlJwaXR5YWo0ekNtaTg3c3Vva09uOWFZN3RoTjNkYm9zNlBfTkV4WmstVEsyazRmdHdiMDVfWFJ5Y0hHTkNCRnp3allOaUFVa2NR?oc=5)
+
+---
+
