@@ -187,3 +187,39 @@
 
 ---
 
+## [2026-09-05] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** El presidente Trump firmó una orden ejecutiva para retirar la protección federal a los lobos grises bajo la Ley de Especies en Peligro de Extinción. Esta medida busca eliminar las restricciones federales de conservación sobre la especie.
+* **Cita:** *"Trump signs order to remove endangered species protection for grey wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVNXNEbmdQSnJqOTZGUXpNaVJmaGplQnpfUlNIWWFHZ2pKZlc2cGRCMFp0SnozN3M1c1hIN1lGV2JpelZJMFdqNzE3VThINnlUR1o5ZGVNeXVwQQ?oc=5)
+
+---
+
+## [2026-09-06] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** El presidente Trump firmó una orden ejecutiva para retirar la protección federal (delisting) a los lobos. Esta medida modifica el estatus legal de conservación de la especie en Estados Unidos.
+* **Cita:** *"Trump signs executive order on wolf delisting"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMilAFBVV95cUxOc0dsSjZtUWh0cERuU1JhVWRjTkFJcUtqUmJjVTNxaTRucFllRnVfRUtEYWtJd3JMUm00OGxoRW80N2FyclhWQzhEOV9HN2J1bjZ4M3JxdVdmbVNWN25LaUdYczJCem5RMlNJTnJyclU5UzNGZ2xwMHN4emVPNERqOVU4emszODc1dEVQUnVMN18yZ1JG?oc=5)
+
+---
+
+## [2018-07-29] - WildEarth Guardians
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Protección Federal`
+* **Detalle:** WildEarth Guardians publica información sobre el estatus y la conservación del lobo mexicano. La organización ambientalista aboga continuamente por la defensa y protección de esta subespecie en peligro de extinción.
+* **Cita:** *"Mexican gray wolf"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMipgFBVV95cUxPVXhqZnFiRTJHREJ2ak5HUmNzVS1HTGF5dmpXTDhJSHV2bEF1WExDM0l0WVpTU1NyWnd3SnlkckNYazJYVE03WGExY1YxZnBlbDJiMVJyX0xiWE9SU1lxWjBRMjJDMm5PaExtX2hTbEpEQm04cXk5Y0ZUSE5XbkpfSVJzN05YNVRfMXMwN0g1RGtXQkJOcExBeVlqajRnbExjZk5PSXJB?oc=5)
+
+---
+
+## [2026-09-07] - Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** El presidente Trump firmó una orden ejecutiva para retirar la protección a las especies en peligro de extinción otorgada a los lobos grises. Esta medida elimina las salvaguardas federales que impedían la caza y el control de su población en Estados Unidos.
+* **Cita:** *"Trump signs order to remove endangered species protection for grey wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGtGcGgxajZRb0dHUXFtTkNCNElYNXpvb3BqTnE5SUxTcnhNblZ6bUVKcWp3RU03UnRONndJaUFmXzc4Z3VTYTZmMWw1SVRwTkt6VEFqTEotVnl3aDV4RHBiaFpYYm1EWVcyMy1NRHMzWndTaFBSUzVmeml0a1pQMUNxaUw?oc=5)
+
+---
+
