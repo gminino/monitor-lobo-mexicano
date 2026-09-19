@@ -223,3 +223,48 @@
 
 ---
 
+## [2026-09-18] - Cronkite News
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Protección Federal`
+* **Detalle:** La noticia advierte que la única especie de lobo en Arizona podría enfrentar un riesgo de extinción debido a la retirada prematura de las protecciones federales. Se destaca la preocupación sobre el impacto negativo que esta medida tendría en la conservación de la población de lobos.
+* **Cita:** *"The only wolf species in Arizona may risk extinction from premature protections removal"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMid0FVX3lxTFBOWTNuWHhQNjhnWWpVYU42MGFjaGlUR1U1VjEycGRyNEdUbUVfRk9OWk5YMno0MjBfa0FkWElKeE1JUnRUOGpJbHNTX214SXY5VG1jNzlWRmZVd0ZHUHNPNEhqZlhmRno5dXlFek9lcldDMm9EQzBV?oc=5)
+
+---
+
+## [2026-09-05] - Donald Trump / WildEarth Guardians
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La administración de Donald Trump emitió una orden ejecutiva para retirar las protecciones federales al lobo gris mexicano. La organización ambientalista WildEarth Guardians reportó y criticó esta medida que amenaza la conservación de la especie.
+* **Cita:** *"Trump Issues Executive Order in Effort to Strip Protections from Mexican Gray Wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiywFBVV95cUxQUXhNTV9NNFc3STFOSEI2WExKOGVDLVJTZGFxNy1kSi1ZX093ODRBSk1kWVRJWjJGRnZ2STg5ODQ0VEJwaFlldDY2a0NOV3NaaU1iRmFuaWlaTUpEZmNEcXVfVFlzNlRjWWN0Q0FVekktdXFnNU9BU0FPbTJFS1ExSWZmQlZ4YklEWGY5YkY1NEt4YW1Gb010Nmo0bUEwbFBVNXlFajE0M2hjN3QyWmlDQVRiWUZzZEdzR3g5cFFhdDVpX2RjSktFR1luOA?oc=5)
+
+---
+
+## [2026-09-17] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** Donald Trump ha propuesto retirar al lobo de las listas de protección federal tras generar tensiones con los ganaderos de bovinos. La medida busca modificar el estatus legal de conservación de la especie, lo que ha encendido el debate entre la protección ambiental y los intereses agrícolas.
+* **Cita:** *"After Riling Cattle Ranchers, Trump Offers Up Wolf Delisting. Here’s What It Means"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMifEFVX3lxTE1vVFJnc1FHZUpqYlMtVXBERm90VlJrNG1jY1dCRkpxTG94VnJWa0hwbk1qS2dpTl9BMnJZYkFjTUNjcnJRMWw4bm13ZnA3bnkweElmRUtEclRRaHZMWHpfeDh3UWVReXNUNHh3ZVFRVDNKajNxRmdTSThuLUg?oc=5)
+
+---
+
+## [2026-09-06] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** El expresidente Trump firmó una orden ejecutiva con el objetivo de retirar las protecciones federales de especies en peligro de extinción otorgadas al lobo gris mexicano. Esta medida busca revertir el estatus de conservación de la subespecie, generando preocupación entre los defensores del medio ambiente.
+* **Cita:** *"Trump signs executive order seeking to strip endangered protections for Mexican gray wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMizAFBVV95cUxPZW1xREJiYXV0U243bGZsYWQwRDRDZnphaml2amlGNW1tdlpudmtRZnNTeHR1WUpTLVQtcGdrNVYwaVV6TlZ2QzRveV9GWlRsSzFVYXJibkNvSDZ0SE1KQWxnN3V2bEJPR1Q3Vm1IVGp1akp5WjZqSEZZbTJSQmxJREZoa1RlRm9vemZTNW5WN1NFVEUwSkF3LVdtU3l4LTcxM25jeUFQeFk0eXY0NG1kdWJXdjZuSDFyNmFfLWhidl9YbjEyTVpndl9ndGY?oc=5)
+
+---
+
+## [2026-09-05] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La administración de Donald Trump busca nuevamente eliminar las protecciones federales para los lobos. Esta medida política amenaza los esfuerzos de conservación de la especie en Estados Unidos.
+* **Cita:** *"Trump Again Seeks To Remove Protections For Wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMikwFBVV95cUxNTEg2S2lCWlA4LWxGbW90QTNJT0FnR0ZMZ2NqQlBFTFdZUEpJTzRzNnNNOVJTMmJFLWhwSVBWX2FuSVZVQmV4WGhTZ3ZrX0lVanNRdzNVWDJMMzAxdHVoUi1wMHkzNXlZUjlTemF2NVhhUC15eXJ6S2JCTjd6a29VR3p3NUZrVVRyaDNta1JLNnJVY28?oc=5)
+
+---
+
