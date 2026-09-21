@@ -268,3 +268,12 @@
 
 ---
 
+## [2026-09-20] - PressReader
+* **Tipo de actor:** `N/A`
+* **Postura:** `Neutral`
+* **Detalle:** La noticia aborda los obstáculos que enfrenta una orden judicial o gubernamental relacionada con el lobo mexicano. Se destaca que la implementación de dichas medidas de gestión o conservación presenta complicaciones legales o prácticas.
+* **Cita:** *"Order on Mexican wolf faces hurdles"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiggFBVV95cUxPbHhvZ3JvZHB3dVkxV3ZWMHlEUS1fMDdzdV9zdExiN3lrSFdxWVk3V3VvNUdfV00yVTlfenVlZjZuLUJSUDViaVc0NmZmcERQM0pfdl9uMlI1Zm1xeE9oV091dVVaLUNJaVdacEpDX3RpeHFEM2U4Q2NGVVdUYjdxdHlR?oc=5)
+
+---
+
