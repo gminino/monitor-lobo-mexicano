@@ -277,3 +277,12 @@
 
 ---
 
+## [2026-09-22] - Conservationists
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Protección Federal`
+* **Detalle:** Los conservacionistas expresan su preocupación de que la administración de Trump pueda retirar prematuramente las protecciones federales al lobo gris mexicano. Temen que esta acción ponga en riesgo los avances logrados en la recuperación de la especie.
+* **Cita:** *"Conservationists worry Trump may prematurely strip Mexican gray wolf protections"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOV0gyRnFOdFIxdlhxRURlWDk4RDdZbDRvZkhTY01oczk4RjluelNjRVp0WW5oMDI4LS1ydTBpeG1nSzNvQTU4SnBhdFhZdmtUSmNDaUpQMk5IeWZUS0VJNWdSMDlQNE5mMk1PUDU3QjFqbjBKSng4WVZ0UEo5UE5wYTBNbWJmWU1FeEtvQzZEQldaYWlOdmlCM1M2S3JaNGN0NzJIZ0JyRnY5c1EzcXJRdmdhcmZsTTlQaW1QbzRSa3dOdw?oc=5)
+
+---
+
