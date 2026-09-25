@@ -286,3 +286,21 @@
 
 ---
 
+## [2026-09-25] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** Una nueva orden ejecutiva firmada por Trump prioriza la protección del ganado estadounidense frente a los ataques de lobos. Esta medida impacta directamente en las políticas de conservación de depredadores en regiones donde habita el lobo.
+* **Cita:** *"Trump’s latest executive order protects U.S. cattle from wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiggJBVV95cUxQYldHNVdkUThPQTFKQUtqWDFRV0oxVHpyUXVEZVRxa2lGRVJONHRLbGFNeEdzSjZxU3JZdHhqRzBIZ3plZHZrY01uQkNSa1dWalZVSUhLMU1YVzFmZElSamdBMmFEaXQ0Sk5XUGw3WU5oY2FGTC1YcGhjUVJvaEF5STFVYjFGWDRIV25Sd1NqUF82X0xCWVdIUkR0U0pYMXZZRmNhMXg2LVJLeDVyam5WRTBxSngyeHF0TEpnWFdnSE44am5Ob25lN09idVRZeGxkOUFmVFNieGM5b0xHWDNwYWRMY3B5Q2hsLU1nLVJhZy1DbXdPbEszMHNfMUJrZ2N3SlE?oc=5)
+
+---
+
+## [2026-09-25] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La noticia aborda la posible decisión de la administración de Donald Trump de retirar anticipadamente las protecciones federales otorgadas al lobo gris mexicano. Los conservacionistas advierten que esta medida podría poner en riesgo los avances en la recuperación de la especie en peligro de extinción.
+* **Cita:** *"Trump may strip Mexican gray wolf protections prematurely"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUzIzRVpLbS1FSmhpZEV4c1pIcWR4RlYwOE1odU9jNTBjMDh4YXdPT2pEbXprZmJCWkJ3WUZaWEFvd09mOG52RDVha3lnVFgwbEZvaDM2M1l1MGZVSXE3WWJSZVpXTHN5UDlJeHpUcjlpMW9rOHdidEF1eE1sZng5ZzJ2bERrem5DTTBPTG5DU1ZYRUtCZW56amRlYW9UdWVtOUdla3RjVmZEU21aeEZRMldqbG5zSlRpS3M3aHZkMGZaVzVYMmlicm8yd3g0LXVzZzRtd1U4Szg?oc=5)
+
+---
+
