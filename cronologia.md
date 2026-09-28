@@ -304,3 +304,12 @@
 
 ---
 
+## [2026-09-05] - Trump administration
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La administración de Trump ha tomado medidas para retirar tanto al lobo gris como al lobo mexicano de la Lista de Especies en Peligro de Extinción. Esta decisión busca eliminar las protecciones federales actuales para estas poblaciones de lobos en Estados Unidos.
+* **Cita:** *"Trump administration moves to drop gray & Mexican wolves from Endangered Species List"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMie0FVX3lxTE5kbDhoYnFPZ3JISC1xOEhWSzNGd1pReUtnWHhEQlROX05BblF0cklyNl9Sa1pZaUNZMVBBTTVZQnltMzl4bHNVdk05U3NZNEV2b3FQT1dZbTczNlpxNmluV2RCaEo2MXZfZlZBOXJmMHdza084ZWlUUHNJcw?oc=5)
+
+---
+
