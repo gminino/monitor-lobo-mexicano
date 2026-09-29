@@ -313,3 +313,12 @@
 
 ---
 
+## [2026-09-08] - Hunter Nation
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La organización Hunter Nation celebra una supuesta orden ejecutiva de Trump para retirar al lobo gris de la Ley de Especies en Peligro de Extinción. La medida es aplaudida por sectores de caza que buscan el fin de la protección federal para esta especie.
+* **Cita:** *"Hunter Nation Celebrates Trump Executive Order to Delist the Gray Wolf from the Endangered Species Act"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQmNHN1dFekZDOXRZeHpxUlM0MlVzQUxISGJFYkE5cWM4SmlWUGJxQ0cwOU5RdWtWUTFyNy1ZQmVOUFY0eXJGWGtOQlBRZVF2a3cyeXlpNVAyNGtnd1d3dF9CcXZYY2Q5dGZjUzk4N240NndtMm44ZWdZVEFPU1IyVjItTy1IYXlmTUt5YVd2c0xqUGFmUTdlODlVLUhEb0VSYWxWdlFvWTNMam9OVS1rZW9jUVphcEFtcnU3QUx5V0dIV0dfMXNrM29zMnNXbFVKSS1xYVF5S1dxVFBUcnVN?oc=5)
+
+---
+
