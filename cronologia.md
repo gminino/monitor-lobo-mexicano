@@ -322,3 +322,12 @@
 
 ---
 
+## [2026-09-04] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** Donald Trump emitió una orden ejecutiva con el objetivo de eliminar las protecciones federales para los lobos grises mexicanos. Esta medida generó preocupación y rechazo por parte de organizaciones ambientalistas como el Sierra Club.
+* **Cita:** *"Trump Issues Executive Order in Effort to Strip Protections from Mexican Gray Wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMivgFBVV95cUxNeHFlWjhrQjZ1ZUhoMy1IeXY0cE5PSHFoek9uTXhpbUluQVRRZmM0SXhVT2N1UTNKUjFKa1hhMS1CZGhKbk10NTEwQUxOeVpNU0tZWEp4Zi1yZ09lLWljM3djdlZTa2c3dXJMdEdJTDhXSU5ISlNtbzh4aGNTenpTN3JhTHB0MWNjbHFVYXZ2YXgwNmRVeVN0UUg2T2twcm9nZUNPM0FOQlQwRzJXLXNEa2dkeDJhUHBSZjRYODdB?oc=5)
+
+---
+
