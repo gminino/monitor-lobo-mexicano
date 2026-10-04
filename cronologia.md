@@ -331,3 +331,12 @@
 
 ---
 
+## [2026-09-24] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** Una orden relacionada con la protección de lobos emitida por Trump genera escrutinio sobre los planes de expansión del Centro de Lobos de California en Julian. La medida política federal pone bajo la lupa las operaciones y el crecimiento de este santuario de conservación.
+* **Cita:** *"Orden de Trump sobre protección de lobos pone bajo la lupa expansión del Centro de Lobos de California en Julian"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMivgFBVV95cUxNNENJU20xX1NJNEd2VUhTQ1phZ0dBbE1UdTF2ZE9VcG9jU3RPc1FkVVB1SDFrVXhRazBuSExPLVJiVC0wNkNJWUlGNnN1Q1hNQWkzbElreVlYd21mWlMzZGoxZk80bncyakVOZGRvR0tUbnMxWWZCSVhDTjVqQjRCRzhOZkstM2U4eVZDaVZwVnV3MHdFcEVrZnhzZUlHZ1dEeWNvWkJKc2JxTC1oWmhTRFpYY0dOeEdmNXZLbThR?oc=5)
+
+---
+
