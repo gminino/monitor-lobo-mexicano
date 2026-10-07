@@ -340,3 +340,12 @@
 
 ---
 
+## [2026-09-24] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** Una orden ejecutiva de Trump relacionada con las protecciones a los lobos pone bajo escrutinio federal el estatus de la especie y la expansión del California Wolf Center en Julian. Esta medida genera debate sobre el futuro de la conservación y el manejo de estos animales en Estados Unidos.
+* **Cita:** *"Trump order puts wolf protections — and Julian’s California Wolf Center expansion — in spotlight"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiqwFBVV95cUxONzVadGFGa2VqQ3VydVloTy1ta0g3SHZqNXFnTl8wc2VtTFV3ejBDVzNoVDBWLWk0WUdIVUxGRkZlZFk4Wko4REpfVWx5MG9ySGRLUEhTZFE4cm9CVFJxbk1sRzM4RHR0eFotazdNdnNHQzZfRlR0bkR6Z0ttUzYyU0Z2NFVhdFRIdWh6SGFVV0JfeHduZFUtVkRjQk5faEdoSE9oaURGY1FnMFU?oc=5)
+
+---
+
