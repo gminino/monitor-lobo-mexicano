@@ -349,3 +349,12 @@
 
 ---
 
+## [2026-09-04] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La administración de Donald Trump ha tomado medidas nuevamente para flexibilizar las protecciones federales para los lobos. Esta decisión busca reducir las restricciones legales que amparan a estas especies en Estados Unidos.
+* **Cita:** *"Trump Again Moves to Ease Federal Wolf Protections"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMijgFBVV95cUxObndmU3Z2V2ZCeDNsb2J5NUctWUlIQ3dBVThRZmhiSmkxTnA3ZHk3b1kwVnFQbTF3aml6V0JWX2M1dDBzWDJONVVZbkVnSHdoeEZYWUJwbU1uVmVLQjBLNnN6OUNCS2JVT0RmSEZDZGl1ZldFUGtMa3U1QVRlTnJqVndxaFU3MHZ4UHl4NnZn?oc=5)
+
+---
+
