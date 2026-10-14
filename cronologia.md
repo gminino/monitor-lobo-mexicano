@@ -358,3 +358,12 @@
 
 ---
 
+## [2026-10-12] - USDA (Departamento de Agricultura de EE. UU.)
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** Tras una orden ejecutiva del presidente Trump, el USDA insta a los estados a revisar sus políticas de gestión de lobos. Asimismo, busca fortalecer la colaboración y el compromiso con los ganaderos afectados por la presencia de estos animales.
+* **Cita:** *"USDA Urges States to Review Wolf Management Policies and Strengthen Engagement with Ranchers"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMi8AFBVV95cUxQc1JkTHp1d0xvbzVXMFlUMjJYSWZQYnJjdzg5OURtUUd6NldzZXhJdC1pc3RBY1EzZzY2TW1LYUd4Yk80MFNzSmF6V2NIWTlHcDV3bGtWZ0xKS19LaDF1b2hzaTJoalozVnpfa2hVQ3luRy1uSnZEb0NsMWp0SlZqdmZyeVVHcW15UXR4VENEbDh4Vi1fZGh5blVwbkhSNXhjVHBrZXhOczZsSG4welJabllubDdNc1JHRTNFampJQ01WdFVGX1phUTNyNVh1cV8tNjlEMjNhVnhOYXZCUGdia3QzRzMtLV9NdnJEUm5jSFE?oc=5)
+
+---
+
