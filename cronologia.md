@@ -376,3 +376,12 @@
 
 ---
 
+## [2026-09-05] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** Donald Trump firmó una orden para eliminar la protección federal de especies en peligro de extinción para los lobos grises y mexicanos. La medida busca despojar a estos cánidos de las salvaguardas legales que regulaban su conservación en Estados Unidos.
+* **Cita:** *"Trump Signs Order To Remove Endangered Species Protection For Grey Wolves, Mexican Wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMihwJBVV95cUxNV0ZNZ3dRWEZ3VzJsQ0V3TWlzVXJWWnJ1T1JBbVYyVGtBWWYtU3lQdFItRnJEWHZqVTRxZ0RJMjY4XzhhNy1TSFY1eEVxc2tud0ZwU18wNW1KZ0xfbFNIRmFnaV9CcGJoX2dSam42dGlpNTIwUmtmdmdLWVo5c21BZGJudGFMcjFsR01odWp2THFuQzJsZnVtYnFNYUZmWkFCcG9TQThsQWs3cnpCRlRVTlAyeGlNejk5clFLa256a2lYR0dkN0FuVG5BOHlGLTZ1cnlUUGZ6bDVqeFNDamtPMVJob3VTUjVCaHZMY05VUE1RZll3WVNTVnhmaTFnRFFQZ0RFQ0lLWdIBhwJBVV95cUxNV0ZNZ3dRWEZ3VzJsQ0V3TWlzVXJWWnJ1T1JBbVYyVGtBWWYtU3lQdFItRnJEWHZqVTRxZ0RJMjY4XzhhNy1TSFY1eEVxc2tud0ZwU18wNW1KZ0xfbFNIRmFnaV9CcGJoX2dSam42dGlpNTIwUmtmdmdLWVo5c21BZGJudGFMcjFsR01odWp2THFuQzJsZnVtYnFNYUZmWkFCcG9TQThsQWs3cnpCRlRVTlAyeGlNejk5clFLa256a2lYR0dkN0FuVG5BOHlGLTZ1cnlUUGZ6bDVqeFNDamtPMVJob3VTUjVCaHZMY05VUE1RZll3WVNTVnhmaTFnRFFQZ0RFQ0lLWQ?oc=5)
+
+---
+
