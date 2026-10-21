@@ -385,3 +385,21 @@
 
 ---
 
+## [2026-09-05] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La administración de Donald Trump impulsa medidas para permitir que los rancheros maten lobos. Esta política busca flexibilizar las restricciones federales sobre la fauna silvestre en favor de los ganaderos.
+* **Cita:** *"You Can Shoot 'Em"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiekFVX3lxTFBHQmFZS1VqZnRZTGROVFZwZ3F2eUZvOWwtNVVZQ2M4UjQwWkZvQTRoaXRCUUFpa0REY0JTdGk3NG9BYmd2VHdabXh1b19hdERhX0V4TUgwTTlhdC1xVElrV3haR3RzSF9rUjlJZTVoMmhtVGFzZ0ZBcG53?oc=5)
+
+---
+
+## [2026-09-04] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La administración de Donald Trump busca nuevamente eliminar las protecciones federales para los lobos. Esta medida genera preocupación entre los conservacionistas sobre el futuro de la población de lobos en Estados Unidos.
+* **Cita:** *"Trump again seeks to remove protections for wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcGF0ZjhTYlZIbk54R3ZlT2FzYWhfQjhBUFBEUTBTZnNMWnprTzJza01ubTdCekxETF9EMnEwbUVCNE0zUWF0Q3NneW5sV0VoVC04UzQ1UEFkdlVqdEZxc0lvTzFTQ3pFMHZka2NXcWR6eDdqbDYxN2NIWjQ4WXcxWWRwY2VQazZwMDY4eXhGWHh6cHN1b0xsVEtmUmY4anZCcFBuNXhTNUhldw?oc=5)
+
+---
+
