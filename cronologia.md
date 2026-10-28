@@ -403,3 +403,12 @@
 
 ---
 
+## [2026-09-05] - Donald Trump
+* **Tipo de actor:** `N/A`
+* **Postura:** `Pro-Desclasificación`
+* **Detalle:** La administración de Trump busca nuevamente eliminar las protecciones federales para los lobos en Estados Unidos. Esta medida genera preocupación entre los conservacionistas sobre el futuro de la población de lobos.
+* **Cita:** *"Trump again seeks to remove protections for wolves"*
+* **Fuente:** [Noticia](https://news.google.com/rss/articles/CBMingFBVV95cUxNZERZZUczaHJmb1FZNjkydGF3SDB4aDVJNkg1UUh4QXVSWlhQc1ByM3p5VGtNdEZyTWFXWFMxcms5TW9yMDlPQ1hsYVMxQTJGdE9ZZkJ4ZkNURjBlMWJMcVlhTk4zUmNGRDBwVjh6RV9FN0FYMXlXZEFDUktDWVhBdnhqR3h1bHlGUlItVGc1d2g3ZW1jOVFqTnhtdjl6UQ?oc=5)
+
+---
+
